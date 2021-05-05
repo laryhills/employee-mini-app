@@ -4,7 +4,7 @@
  
   ```
   Create .env file in root folder directory
-  ```javascript
+  ```
   HOST=yourhosturl
   DB_USER=yourusername
   DB_PASS=yourpassword
