@@ -5,10 +5,10 @@
   ```
   Create .env file in root folder directory
   ```
-  HOST=yourhosturl
-  DB_USER=yourusername
-  DB_PASS=yourpassword
-  DB_DATABASE=node_test_employees
+  HOST=yourhosturl  
+  DB_USER=yourusername  
+  DB_PASS=yourpassword  
+  DB_DATABASE=node_test_employees  
   PORT=4000
 
   ```
