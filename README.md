@@ -21,6 +21,18 @@
     4. cd ..
     5. yarn run dev
 
+    OR
+    
+    1. npm install
+    2. cd client
+    3. npm install
+    4. cd ..
+    ## Run react app
+    5. cd client && npm start
+    ## Run express app
+    5. cd .. && npm run server
+    
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
